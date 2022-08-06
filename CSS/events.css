@@ -1,0 +1,10 @@
+.events
+{
+    margin-top: 6rem;
+    color: var(--color-black);
+}
+
+.events h1 
+{
+    text-align: center;
+}
